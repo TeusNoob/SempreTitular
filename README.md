@@ -1,2 +1,0 @@
-# SempreTitular
-mod
